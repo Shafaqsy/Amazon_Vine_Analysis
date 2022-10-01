@@ -36,4 +36,5 @@ percentage of unpaid five star vine reviews = 38.701786464381904 = 38.7%
 
 ##Summary
 
-
+There's only 48 paid reviews and 51.1% of people has given five star reviews for paid vine program. I don't think there's a positive bias and people are not happy with the paid vine program because there is only few people who have given reviews and only half of it has given five star reviews. 
+I would recomend an additional analysis for both paid and unpaid program. We can calculate the mean of star rating cloumn for better conclusion.
